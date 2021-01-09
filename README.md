@@ -6,5 +6,3 @@
 ## I'm a Human
 
 - 🔭 I'm pretty interested in [functional programming](https://github.com/nullpub/hkts)
-
-[![Brandon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baetheus)](https://github.com/baetheus/github-readme-stats)
